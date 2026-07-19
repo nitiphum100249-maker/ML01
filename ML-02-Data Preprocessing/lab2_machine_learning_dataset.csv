@@ -1,0 +1,17 @@
+ID,Age,Department,Salary,Performance_Score,Is_Promoted
+1,25.0,HR,50000,High,Yes
+2,30.0,IT,70000,Medium,No
+3,,IT,75000,High,Yes
+4,22.0,Sales,,Low,No
+5,45.0,HR,80000,Medium,Yes
+5,45.0,HR,80000,Medium,Yes
+6,999.0,IT,60000,Low,No
+7,28.0,Sales,55000,High,Yes
+8,35.0,HR,,Medium,No
+9,,IT,85000,Low,No
+10,40.0,IT,90000,High,Yes
+11,50.0,Sales,45000,High,No
+12,23.0,HR,52000,Medium,No
+13,29.0,,68000,Low,No
+14,31.0,IT,72000,High,Yes
+15,27.0,Sales,65000,Medium,No
