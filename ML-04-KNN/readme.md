@@ -183,21 +183,6 @@ Accuracy
 
 ---
 
-## วิธี Run โปรแกรม
-
-ตรวจสอบว่าไฟล์อยู่ใน Folder เดียวกัน
-
-```text
-lab04.py
-labelnames.csv
-```
-
-จากนั้นเปิด Terminal หรือ Command Prompt แล้วใช้คำสั่ง
-
-```bash
-python lab04.py
-```
-
 ตัวอย่างผลลัพธ์
 
 ```text
@@ -222,17 +207,3 @@ Best Accuracy = ...
 
 Results saved to outputs/results.csv
 ```
-
----
-
-## หมายเหตุ
-
-Feature ที่สร้างจากชื่อไฟล์เป็น Feature สำหรับ **การฝึก Pipeline ของ KNN** เท่านั้น ไม่ได้แสดงถึงลักษณะจริงของรองเท้า หากต้องการสร้างโมเดลที่สามารถจำแนก Adidas และ Nike จากรูปภาพได้อย่างมีความหมาย ควรใช้ Feature ที่สกัดจากรูปภาพจริง เช่น สี รูปร่าง หรือ Feature จาก Image Processing / Deep Learning
-
----
-
-## ผู้จัดทำ
-
-**LAB 04 - KNN Classification**
-
-ใช้สำหรับการศึกษาและทดลอง Machine Learning Classification ด้วย Python และ Scikit-learn
