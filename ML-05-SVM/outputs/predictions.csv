@@ -1,0 +1,11 @@
+True,Linear,Polynomial,RBF,True Name,Linear Name,Polynomial Name,RBF Name
+0,1,1,0,adidas,converse,converse,adidas
+2,2,0,0,nike,nike,adidas,adidas
+1,1,2,1,converse,converse,nike,converse
+0,0,2,0,adidas,adidas,nike,adidas
+0,0,0,0,adidas,adidas,adidas,adidas
+2,0,1,0,nike,adidas,converse,adidas
+2,1,2,1,nike,converse,nike,converse
+1,0,0,0,converse,adidas,adidas,adidas
+2,0,2,1,nike,adidas,nike,converse
+1,2,2,2,converse,nike,nike,nike
